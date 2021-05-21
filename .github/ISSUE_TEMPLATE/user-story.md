@@ -2,7 +2,7 @@
 name: User Story
 about: User Story
 title: "[STORY- ]"
-labels: ТРПО
+labels: User story
 assignees: dekemen
 
 ---
